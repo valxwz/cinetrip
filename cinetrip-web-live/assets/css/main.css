@@ -23,11 +23,11 @@ h1{
   font-size: 55px;
   color: #222222;
   font-weight: 500;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Baloo Chettan 2', cursive;
 }
 
 h3{
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Baloo Chettan 2', cursive;
   color:#3D38CB;
 font-style: normal;
 font-weight: 500;
@@ -48,8 +48,8 @@ line-height: 24px;
 h2 {
   font-size: 40px;
   color: #222222;
-  font-weight: 500;
-  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-family: 'Baloo Chettan 2', cursive;
 }
 
 a {
@@ -74,7 +74,9 @@ p {
   font-size: 16px;
 }
 
-small{font-size: 95%;}
+small{
+  font-size: 95%;
+font-weight: 300;}
 
 ul, ol {
   list-style: outside none none;
@@ -812,22 +814,14 @@ hr {
 }
 
 #hero-area .contents .head-title {
+  font-family: 'Baloo Chettan 2', cursive;
   color: #222222;
   font-size: 42px;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 60px;
   margin-bottom: 2rem;
 }
 
-.heavy {
-    font-size: 40px;
-  font-family: 'Montserrat', sans-serif;
-    color: #222222;
-  font-size: 38px;
-  line-height: 60px;
-  margin-bottom: 10px;
-font-weight: 700;
-}
 #hero-area .contents .header-button {
   margin-top: 20px;
   color: #222222;
