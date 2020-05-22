@@ -547,6 +547,7 @@ hr {
 .about-area .about-wrapper > div {
   vertical-align: middle;
   display: table-cell;
+  padding-bottom: 5em;
 }
 
 .about-area img {
