@@ -64,6 +64,10 @@
 
   /* only small tablets */
   @media (min-width:768px) and (max-width:991px) {
+    #hero-area .contents .head-title h2 {
+      font-size: 38px;
+    }
+
     .navbar-brand img {
       margin: 0 0;
     }
@@ -157,6 +161,10 @@
 
   /* mobile or only mobile */
   @media (max-width:767px) {
+    #hero-area .contents .head-title h2 {
+      font-size: 34px;
+    }
+
     .navbar-brand img {
       margin: 0 0;
     }
